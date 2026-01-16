@@ -33,3 +33,4 @@ const rest = new REST().setToken(process.env.DISCORD_TOKEN);
     console.error(error);
   }
 })();
+console.log("등록될 명령어들:", commandList.map(c => c.data.name));
