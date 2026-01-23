@@ -13,11 +13,14 @@
   "license": "ISC",
   "dependencies": {
     "@types/node": "^25.0.3",
+    "axios": "^1.13.2",
+    "better-sqlite3": "^12.6.2",
     "discord.js": "^14.25.1",
     "dotenv": "^17.2.3",
     "ts-node": "^10.9.2"
   },
   "devDependencies": {
+    "@types/better-sqlite3": "^7.6.13",
     "tsx": "^4.21.0"
   }
 }

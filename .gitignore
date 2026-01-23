@@ -1,6 +1,8 @@
 node_modules/
 data.env
+data.db
 .env
 dist/
 out/
 package-lock.json
+images/
